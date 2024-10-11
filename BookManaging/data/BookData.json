@@ -1,0 +1,21 @@
+{
+  "Data": [
+    {
+      "Title": "The Shinning",
+      "Author": "Stephen King",
+      "Publisher": "Viking",
+      "ISBN": "345-678",
+      "Year": 1999,
+      "Chapters": ["Intro"]
+    },
+    {
+      "Title": "ABC",
+      "Author": "XZY",
+      "Publisher": "OIU",
+      "ISBN": "98-098",
+      "Year": 2000,
+      "Chapters": ["Intro", "Content", "Content2", "End"]
+    }
+  ],
+  "Quantity": 2
+}
